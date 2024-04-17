@@ -33,7 +33,7 @@
     },
      "autoload": {
         "psr-4": {
-                "axyr\\flashmessage\\": "src/"
+                "danielhurdmint\\flashmessage\\": "src/"
             
         }
     }

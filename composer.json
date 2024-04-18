@@ -1,5 +1,5 @@
 {
-    "name": "danielhurdmint/silverstripe-flashmessage",
+    "name": "axyr/silverstripe-flashmessage",
     "description": "Easy flash messages for Silverstripe",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -33,7 +33,7 @@
     },
      "autoload": {
         "psr-4": {
-                "danielhurdmint\\flashmessage\\": "src/"
+                "axyr\\flashmessage\\": "src/"
             
         }
     }
